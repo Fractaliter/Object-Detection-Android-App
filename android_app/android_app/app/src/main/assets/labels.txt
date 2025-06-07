@@ -1,4 +1,8 @@
-fork
-knife
-plate
-spoon
+filled g1
+filled g2
+liquid
+mazak
+mazak g1
+mazak g2
+ok g1
+ok g2

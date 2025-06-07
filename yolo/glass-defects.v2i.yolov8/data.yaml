@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['filled g1', 'filled g2', 'liquid', 'mazak', 'mazak g1', 'mazak g2', 'ok g1', 'ok g2']
+
+roboflow:
+  workspace: krzysztof-wawrzkiewicz-zj2l1
+  project: glass-defects-r4hil
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/krzysztof-wawrzkiewicz-zj2l1/glass-defects-r4hil/dataset/2
